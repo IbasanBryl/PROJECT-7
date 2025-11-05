@@ -1,0 +1,32 @@
+{
+    "S001": {
+        "id": "S001",
+        "name": "Bryl",
+        "grade": "BSIT-02"
+    },
+    "S002": {
+        "id": "S002",
+        "name": "Philip",
+        "grade": "BSIT-02"
+    },
+    "S003": {
+        "id": "S003",
+        "name": "Elijah",
+        "grade": "BSIT-02"
+    },
+    "S004": {
+        "id": "S004",
+        "name": "Kurt",
+        "grade": "BSIT-02"
+    },
+    "S005": {
+        "id": "S005",
+        "name": "Nico",
+        "grade": "BSIT-02"
+    },
+    "S00123": {
+        "id": "S00123",
+        "name": "B",
+        "grade": "1"
+    }
+}

@@ -1,0 +1,20 @@
+[
+    {
+        "student_id": "S00123",
+        "name": "B",
+        "section": "1",
+        "status": "Present",
+        "date": "2025-11-04",
+        "time": "21:18:48",
+        "marked_by": "admin"
+    },
+    {
+        "student_id": "S005",
+        "name": "Nico",
+        "section": "BSIT-02",
+        "status": "Late",
+        "date": "2025-11-04",
+        "time": "21:21:31",
+        "marked_by": "admin"
+    }
+]
