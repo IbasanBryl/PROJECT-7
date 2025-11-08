@@ -281,16 +281,6 @@ class AttendanceGUI:
         )
         login_btn.grid(row=4, column=0, columnspan=2, pady=20)
         
-        # Info label
-        info_label = tk.Label(
-            login_frame,
-            text="Default: admin / admin123",
-            font=("Arial", 9, "italic"),
-            bg="white",
-            fg="gray"
-        )
-        info_label.grid(row=5, column=0, columnspan=2)
-        
         # Bind Enter key
         self.password_entry.bind("<Return>", lambda e: self.handle_login())
     
@@ -845,3 +835,4 @@ if __name__ == "__main__":
         print(f"Application error: {e}")
         import traceback
         traceback.print_exc()
+
